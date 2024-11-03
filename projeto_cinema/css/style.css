@@ -1,0 +1,40 @@
+*{
+    font-family: Arial;
+    padding: 10px;
+    margin: 0%;
+    
+}
+
+#estreia{
+
+    color: darkgreen;
+
+
+}
+#estreiatmw{
+
+    color: darkblue;
+}
+
+a{
+text-decoration: none;
+
+}
+h2 a{
+    color:  royalblue;
+}
+
+p{
+   font-size: 20px;
+}
+
+header{
+    background-color: #cbc5c5;
+  
+}
+header button{
+    color: #cbc5c5;
+    background-color: #cbc5c5;
+    border-radius: 20%;
+}
+
